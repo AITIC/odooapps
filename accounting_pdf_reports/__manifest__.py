@@ -13,7 +13,7 @@
     'maintainer': 'Odoo Mates',
     'support': 'odoomates@gmail.com',
     'website': '',
-    'depends': ['account'],
+    'depends': ['account', 'cash_flow_statement'],
     'live_test_url': 'https://www.youtube.com/watch?v=Qu6R3yNKR60',
     'demo': [],
     'data': [
